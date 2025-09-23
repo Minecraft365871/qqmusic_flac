@@ -2,9 +2,7 @@
  * QQ音乐API Node.js版本
  * 原作者: 苏晓晴
  * 原作者QQ: 3074193836
- * 转换为Node.js版本
  * 个人博客 www.toubiec.cn
- * 源码项目地址：https://github.com/Suxiaoqinx/tencent_url
  */
 
 const https = require('https');
